@@ -50,6 +50,10 @@ Vocavista collects nothing from anyone, including children.
 
 Delete words, scenes, or photos in the app (deleted words and scenes wait in Recently Deleted until you remove them for good), or delete the app and remove its data in Settings › [your name] › iCloud. Because we hold no copy, there is nothing for us to export or delete on our side.
 
+## Reporting a concern
+
+If something Vocavista writes or suggests concerns you, choose Report a concern (in a Discover scene's menu, a word conversation's More menu, or Photo options). Mail opens a message to us quoting the generated text you chose. Nothing is sent unless you send it, and we use what you send only to look into the report.
+
 ## Changes to this policy
 
 If this policy changes, we will update the date at the top of this page.
