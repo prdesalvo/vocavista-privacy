@@ -8,7 +8,7 @@ Copy follows the draft App Store listing (`language-learning-ios/docs/app-store-
 
 ## Sharing
 
-Share the product URL above for the custom Messages preview. Open Graph and Twitter metadata are directly in HTML. `assets/share-v1.jpg` is 1200 × 630, composed from the icon and two screenshots. Change the filename when replacing the preview image because clients cache previews.
+Share the product URL above for the custom Messages preview. Open Graph and Twitter metadata are directly in HTML. `assets/share-v2.jpg` is 1200 × 630, composed from the icon and two screenshots; it is `share-v1.jpg` with the icon replaced on November 24, 2026, when the app icon became the word card and framed view. Change the filename when replacing the preview image because clients cache previews.
 
 ## App Store metadata
 
